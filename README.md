@@ -1,8 +1,8 @@
-<lottie-player src="./animation.json" autoplay loop></lottie-player>
+<img src="./animation.mp4" width="100%" alt="..." />
 
-# Eduardo de Cesaro
+# I'm Eduardo de Cesaro (Duda)
 
-Product Designer and front-end practitioner working across product strategy, UX/UI, design systems and interface implementation.
+Product Designer with front-end designer expertise working across webdesign, product strategy, UX/UI and design systems.
 
 I design digital products with attention to clarity, consistency and feasibility. My work usually sits between design, product and engineering: understanding complex problems, shaping usable experiences and getting closer to how things are actually built.
 
@@ -21,7 +21,9 @@ Most of my professional work happens in private company repositories, so this pr
 
 Good interfaces are not only visual decisions. They are the result of product context, constraints, technical tradeoffs and careful communication between people.
 
-I use code as a way to make design more concrete: to prototype interactions, understand feasibility, document behavior and collaborate better with engineering teams.
+I use code as a way to make design more concrete: to prototype interactions, understand feasibility, document behavior, collaborate better with engineering teams and develop my own tools and products.
+
+I believe the user experience can be scalated when the experience that the team also is thinking on, with good tools, process and workers.
 
 ## Stack And Tools
 
