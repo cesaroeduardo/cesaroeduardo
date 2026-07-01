@@ -1,4 +1,4 @@
-<img src="./animation.mp4" width="100%" alt="..." />
+<img src="./animation.webp" width="100%" alt="..." />
 
 # I'm Eduardo de Cesaro (Duda)
 
