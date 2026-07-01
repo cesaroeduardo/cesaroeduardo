@@ -1,16 +1,34 @@
-## Hi there 👋
+<lottie-player src="./animation.json" autoplay loop></lottie-player>
 
-<!--
-**cesaroeduardo/cesaroeduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eduardo de Cesaro
 
-Here are some ideas to get you started:
+Product Designer and front-end practitioner working across product strategy, UX/UI, design systems and interface implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design digital products with attention to clarity, consistency and feasibility. My work usually sits between design, product and engineering: understanding complex problems, shaping usable experiences and getting closer to how things are actually built.
+
+Most of my professional work happens in private company repositories, so this profile is a curated space for public experiments, interface studies, tooling ideas and technical notes.
+
+## What I Work On
+
+- Product design for complex digital products
+- Design systems, component logic and interface documentation
+- Front-end prototypes and production-oriented UI
+- Internal tools for design, product and engineering teams
+- Motion, interaction and creative coding experiments
+- Virtual Reality and 3D experiments
+
+## How I Think About Design and Code
+
+Good interfaces are not only visual decisions. They are the result of product context, constraints, technical tradeoffs and careful communication between people.
+
+I use code as a way to make design more concrete: to prototype interactions, understand feasibility, document behavior and collaborate better with engineering teams.
+
+## Stack And Tools
+
+`Figma` · `Design Systems` · `Storybook` · `Next.js` · `Nuxt` · `Vue` · `React` · `TypeScript` · `Tailwind CSS` · `Sanity` · `Vercel` · `Motion` · `Three.js` · `Supabase` · `Notion` · `Jira`
+
+## Find Me
+
+- Portfolio: [uxduda.com](https://uxduda.com/)
+- LinkedIn: [linkedin.com/in/cesaroeduardo](https://www.linkedin.com/in/cesaroeduardo/)
+- GitHub: [github.com/cesaroeduardo](https://github.com/cesaroeduardo)
