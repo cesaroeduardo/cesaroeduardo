@@ -31,4 +31,4 @@ I use code as a way to make design more concrete: to prototype interactions, und
 
 - Portfolio: [uxduda.com](https://uxduda.com/)
 - LinkedIn: [linkedin.com/in/cesaroeduardo](https://www.linkedin.com/in/cesaroeduardo/)
-- GitHub: [github.com/cesaroeduardo](https://github.com/cesaroeduardo)
+- X: [x.com/reidophotoshops](https://github.com/reidophotoshops)
