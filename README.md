@@ -33,4 +33,5 @@ I believe the user experience can be scalated when the experience that the team 
 
 - Portfolio: [uxduda.com](https://uxduda.com/)
 - LinkedIn: [linkedin.com/in/cesaroeduardo](https://www.linkedin.com/in/cesaroeduardo/)
-- X: [x.com/reidophotoshops](https://github.com/reidophotoshops)
+- X: [x.com/reidophotoshops](https://x.com/reidophotoshops)
+- Twitch: [twitch.tv/reidophotoshops](https://twitch.tv/reidophotoshops)
