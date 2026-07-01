@@ -2,7 +2,7 @@
 
 # I'm Eduardo de Cesaro (Duda)
 
-Product Designer with front-end designer expertise working across webdesign, product strategy, UX/UI and design systems.
+Product Designer with front-end expertise working across webdesign, product strategy, UX/UI and design systems.
 
 I design digital products with attention to clarity, consistency and feasibility. My work usually sits between design, product and engineering: understanding complex problems, shaping usable experiences and getting closer to how things are actually built.
 
